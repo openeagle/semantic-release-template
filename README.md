@@ -51,7 +51,7 @@
     access=public
     ```
 
-4. 配置 `.github/workflows`
+4. 配置 `.github/workflows/publish.yml`
 
     ```
     name: publish
@@ -134,7 +134,7 @@
     access=public
     ```
 
-4. 配置 `.github/workflows`
+4. 配置 `.github/workflows/publish.yml`
 
     ```
     name: publish
